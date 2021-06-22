@@ -1,0 +1,30 @@
+{
+  "name": "appflags-react",
+  "version": "0.0.5-alpha",
+  "description": "React SDK for AppFlags.io",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "/lib"
+  ],
+  "dependencies": {
+    "appflags": "^1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "cli-confirm": "^1.0.1",
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC"
+}

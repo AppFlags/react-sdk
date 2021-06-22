@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "module": "commonjs",
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "outDir": "lib",
+        "sourceMap": true,
+        "strict": true,
+        "target": "es2017",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true
+    },
+    "compileOnSave": true,
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "src/**/*.test.ts"
+    ]
+}
