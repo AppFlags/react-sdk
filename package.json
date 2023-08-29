@@ -1,6 +1,6 @@
 {
   "name": "appflags-react",
-  "version": "1.0.0",
+  "version": "1.1.1-next.1",
   "description": "React SDK for AppFlags.io",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -11,15 +11,16 @@
     "/lib"
   ],
   "dependencies": {
-    "appflags": "^1.0.0"
+    "appflags": "2.2.0",
+    "semantic-release-slack-bot": "^4.0.2"
   },
   "peerDependencies": {
     "react": "^16.8.0 || ^17.0.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0",
-    "@semantic-release/gitlab": "^6.2.1",
+    "@semantic-release/git": "^9.0.1",
+    "@semantic-release/gitlab": "^6.2.2",
     "@types/react": "^17.0.0",
     "cli-confirm": "^1.0.1",
     "typescript": "^3.9.6"
