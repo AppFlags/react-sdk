@@ -2,6 +2,7 @@
   "name": "appflags-react",
   "version": "1.4.1",
   "description": "React SDK for AppFlags.io",
+  "homepage": "https://github.com/AppFlags/react-sdk",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "directories": {
