@@ -2,12 +2,4 @@
 
 React SDK for Appflags.io
 
-## Installation
-
-```bash
-npm install appflags-react
-```
-
-## Documentation
-
-[Documentation](https://docs.appflags.io/)
+For more information, see the [docs](https://docs.appflags.io/sdks/react/).
