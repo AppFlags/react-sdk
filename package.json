@@ -1,6 +1,6 @@
 {
   "name": "appflags-react",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "React SDK for AppFlags.io",
   "homepage": "https://github.com/AppFlags/react-sdk",
   "main": "lib/index.js",
