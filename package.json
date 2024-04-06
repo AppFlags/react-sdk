@@ -12,7 +12,7 @@
     "/lib"
   ],
   "dependencies": {
-    "appflags": "^2.4.0"
+    "appflags": "^2.4.2"
   },
   "peerDependencies": {
     "react": "16.8.0 - 18"
